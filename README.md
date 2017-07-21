@@ -1,9 +1,9 @@
 # e-shop
-<h1>
-Project tools
-</h1>
-#Raw php
-#mysql
-#Ajax
-#javaScript
-#Bootstrap-3
+
+## Project tools
+
+# Raw php
+# mysql
+# Ajax
+# javaScript
+# Bootstrap-3
