@@ -1,0 +1,1 @@
+<h2>Hello inventory home page</h2>
