@@ -10,7 +10,6 @@
 # Some ScreenShot of my Project:
 # Project ScreenShot
 ![screenshot from 2017-07-20 16-18-07](https://user-images.githubusercontent.com/14887259/28448129-62c7b72a-6df7-11e7-8391-dbb83ba30755.png)
-![screenshot from 2017-07-21 00-45-49](https://user-images.githubusercontent.com/14887259/28448130-62c9a6ac-6df7-11e7-9354-c9b9266f28e7.png)
 ![screenshot from 2017-07-21 00-46-13](https://user-images.githubusercontent.com/14887259/28448131-62cc2094-6df7-11e7-984d-6fedef2fac25.png)
 ![screenshot from 2017-07-21 00-47-10](https://user-images.githubusercontent.com/14887259/28448133-62d4eb66-6df7-11e7-8efa-e0f1c3909d7f.png)
 ![screenshot from 2017-07-21 00-47-24](https://user-images.githubusercontent.com/14887259/28448132-62d20ed2-6df7-11e7-9744-d201290d9eb2.png)
@@ -33,7 +32,11 @@
 ![screenshot from 2017-07-21 07-37-34](https://user-images.githubusercontent.com/14887259/28448150-6387da32-6df7-11e7-8334-4712fd453929.png)
 ![screenshot from 2017-07-21 07-46-41](https://user-images.githubusercontent.com/14887259/28448151-638bba62-6df7-11e7-937d-40aebbed6c87.png)
 ![screenshot from 2017-07-21 07-47-08](https://user-images.githubusercontent.com/14887259/28448152-638e0da8-6df7-11e7-882e-7f7b15e67b9a.png)
+#Login Form:
+![screenshot from 2017-07-21 00-45-49](https://user-images.githubusercontent.com/14887259/28448130-62c9a6ac-6df7-11e7-9354-c9b9266f28e7.png)
+#Registration Form:
 ![screenshot from 2017-07-21 07-47-46](https://user-images.githubusercontent.com/14887259/28448153-63bc1edc-6df7-11e7-9ab4-4e47129d5290.png)
+#Reset Password Form:
 ![screenshot from 2017-07-21 07-47-51](https://user-images.githubusercontent.com/14887259/28448154-63c02d9c-6df7-11e7-99b8-1d496874961c.png)
 
 
