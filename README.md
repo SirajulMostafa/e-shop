@@ -37,8 +37,7 @@
 ![screenshot from 2017-07-21 07-47-08](https://user-images.githubusercontent.com/14887259/28448152-638e0da8-6df7-11e7-882e-7f7b15e67b9a.png)
 #Login Form:
 ![screenshot from 2017-07-21 00-45-49](https://user-images.githubusercontent.com/14887259/28448130-62c9a6ac-6df7-11e7-9354-c9b9266f28e7.png)
-#Registration Form:
-![screenshot from 2017-07-21 07-47-46](https://user-images.githubusercontent.com/14887259/28448153-63bc1edc-6df7-11e7-9ab4-4e47129d5290.png)
+
 # #View All Users:
 ![screenshot from 2017-07-21 07-47-51](https://user-images.githubusercontent.com/14887259/28448154-63c02d9c-6df7-11e7-99b8-1d496874961c.png)
 
