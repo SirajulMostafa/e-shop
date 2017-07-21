@@ -33,10 +33,7 @@
 ### 
 # #Home|Cart Thank You After Order:
 ![screenshot from 2017-07-21 07-30-01](https://user-images.githubusercontent.com/14887259/28448148-6374ee86-6df7-11e7-9924-ba1dc4661b97.png)
-### 
-#Login Form:
-![screenshot from 2017-07-21 00-45-49](https://user-images.githubusercontent.com/14887259/28448130-62c9a6ac-6df7-11e7-9354-c9b9266f28e7.png)
-=====
+
 ##
 # #Shopping cart
 ![screenshot from 2017-07-20 16-18-07](https://user-images.githubusercontent.com/14887259/28448129-62c7b72a-6df7-11e7-8391-dbb83ba30755.png)
