@@ -68,7 +68,7 @@
 
 ### 
 # #Admin|Brand Update :
-![screenshot from 2017-07-21 00-51-41](https://user-images.githubusercontent.com/14887259/28448139-6311ed4a-6df7-7-8da9-10f21b5a3a4a.png)
+![screenshot from 2017-07-21 00-51-41](https://user-images.githubusercontent.com/14887259/28448139-6311ed4a-6df7-11e7-8da9-10f21b5a3a4a.png)
 ###  
 # #Admin|Category Add :
 ![screenshot from 2017-07-21 00-52-38](https://user-images.githubusercontent.com/14887259/28448140-63126c02-6df7-11e7-811a-46df1faa0039.png)
